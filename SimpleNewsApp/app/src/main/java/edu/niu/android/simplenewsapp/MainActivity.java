@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private List<Article> articleList = new ArrayList<>();
     private NewsRecyclerAdapter adapter;
-    private static final String API_KEY = "bb2f77671aca451db40a0c5922cef16a";
+    private static final String API_KEY = "ENTER_YOUR_API_KEY";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
